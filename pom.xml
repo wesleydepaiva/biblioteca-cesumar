@@ -26,12 +26,7 @@
             <scope>provided</scope>
         </dependency>
 
-        <!-- JSF -->
-<dependency>
-    <groupId>org.glassfish</groupId>
-    <artifactId>javax.faces</artifactId>
-    <version>2.3.9</version>
-</dependency>
+
 
     </dependencies>
 
